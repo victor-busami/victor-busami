@@ -70,11 +70,6 @@ I'm passionate about building **tech that empowers people**, makes daily life �
 
 
 
-### 🐍 GitHub Contribution Snake
-
-![GitHub Snake](https://github.com/victor-busami/victor-busami/blob/output/github-contribution-grid-snake.svg)
-
-
 
 ### 💬 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/yourname)
