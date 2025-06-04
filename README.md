@@ -19,8 +19,6 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00BFFF&center=true&width=650&lines=Crafting+Code+with+Purpose...;Building+Smart+Tools+that+Matter;I'm+Busami+Victor+%E2%9A%99%EF%B8%8F+Software+Engineer" />
 </p>
 
----
-
 ### 🌐 About Me
 🚀 Passionate about building purposeful digital experiences that solve **real human problems** — in health, finance, sustainability, and education.  
 🧠 I specialize in modern web stacks and backend engineering, with a focus on **clean architecture**, **scalability**, and **usability**.
@@ -29,15 +27,13 @@ Here are some ideas to get you started:
 # Busami Victor 👨‍💻 
 **Full-Stack Developer | Problem Solver | Builder of Useful Things**
 
----
+
 
 ### 🌍 Mission-Driven Dev
 
 I craft **purposeful web apps** that tackle real-world challenges — from 🏥 health and 💸 budgeting to 🌱 sustainability and 🎓 education.  
 I'm passionate about building **tech that empowers people**, makes daily life 🌟 smarter, 🧘 simpler, and more ❤️ human.
 
-
----
 
 ### 🧰 Tech I Use & Love
 
@@ -64,7 +60,7 @@ I'm passionate about building **tech that empowers people**, makes daily life �
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
----
+-
 
 ### 🚀 Projects I’m Building
 
@@ -88,11 +84,10 @@ I'm passionate about building **tech that empowers people**, makes daily life �
 ---
 
 ### 💬 Let's Connect
-- 
 - 💼 [LinkedIn](https://linkedin.com/in/yourname)
 - 📬 [Email](victorbusami1@gmail.com)
 
----
+
 
 ### ⚡ Fun Fact  
 I treat debugging like detective work 🕵️‍♂️ — every bug has a trail, every fix is a victory 🛠️. Also, I talk to my rubber duck 🦆 more than most humans when coding.
