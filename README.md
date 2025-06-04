@@ -1,42 +1,29 @@
 ## Hi there 👋
 
-<!--
-**victor-busami/victor-busami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- Header Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00BFFF&center=true&width=650&lines=Crafting+Code+with+Purpose...;Building+Smart+Tools+that+Matter;I'm+Busami+Victor+%E2%9A%99%EF%B8%8F+Software+Engineer" />
 </p>
 
-### 🌐 About Me
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+
+
+### 🌐 About Me  
 🚀 Passionate about building purposeful digital experiences that solve **real human problems** — in health, finance, sustainability, and education.  
 🧠 I specialize in modern web stacks and backend engineering, with a focus on **clean architecture**, **scalability**, and **usability**.
 
-
-# Busami Victor 👨‍💻 
+# Busami Victor 👨‍💻  
 **Full-Stack Developer | Problem Solver | Builder of Useful Things**
 
 
-
-### 🌍 Mission-Driven Dev
-
+### 🌍 Mission-Driven Dev  
 I craft **purposeful web apps** that tackle real-world challenges — from 🏥 health and 💸 budgeting to 🌱 sustainability and 🎓 education.  
 I'm passionate about building **tech that empowers people**, makes daily life 🌟 smarter, 🧘 simpler, and more ❤️ human.
 
 
 ### 🧰 Tech I Use & Love
-
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -59,19 +46,15 @@ I'm passionate about building **tech that empowers people**, makes daily life �
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-
-
-
-### 🚀 Projects I’m Building
-
-
-- 💰 **BudgetFlow** – A minimalist personal finance tracker  
-  _Visualize income, expenses, and savings in real time._
-
-- 🌱 **GreenStep** – Track and reduce your carbon footprint  
-  _For climate-conscious individuals making everyday choices._
-
 ---
+
+### 📌 Featured Projects
+
+- 💰 [**BudgetFlow**](https://github.com/victor-busami/budgetflow) – A minimalist personal finance tracker  
+- 🌱 [**GreenStep**](https://github.com/victor-busami/greenstep) – Track and reduce your carbon footprint  
+- 🧠 [**MindEase**](https://github.com/victor-busami/mindease) – Mental health support & mood tracking  
+
+
 
 ### 📈 My GitHub Stats
 
@@ -81,15 +64,23 @@ I'm passionate about building **tech that empowers people**, makes daily life �
 </p>
 
 
----
+### 🔥 Contribution Graph
+
+![Victor's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=victor-busami&theme=react-dark&hide_border=true)
+
+
+
+### 🐍 GitHub Contribution Snake
+
+![GitHub Snake](https://github.com/victor-busami/victor-busami/blob/output/github-contribution-grid-snake.svg)
+
+
 
 ### 💬 Let's Connect
 - 💼 [LinkedIn](https://linkedin.com/in/yourname)
-- 📬 [Email](victorbusami1@gmail.com)
+- 📬 [Email](mailto:victorbusami1@gmail.com)
 
 
 
 ### ⚡ Fun Fact  
 I treat debugging like detective work 🕵️‍♂️ — every bug has a trail, every fix is a victory 🛠️. Also, I talk to my rubber duck 🦆 more than most humans when coding.
-
-
