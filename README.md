@@ -60,7 +60,7 @@ I'm passionate about building **tech that empowers people**, makes daily life �
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 
--
+
 
 ### 🚀 Projects I’m Building
 
