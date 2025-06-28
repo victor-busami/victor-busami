@@ -52,20 +52,33 @@ I'm passionate about building **tech that empowers people**, makes daily life �
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=victor-busami&theme=react-dark&hide_border=true" />
 </p>
 
-### 📊 Metrics Dashboard
+### ⏱️ Wakatime Stats (Coding Activity)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victor-busami&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&v=2" />
 </p>
 
-### ⌛ Wakatime Stats *(if you use [Wakatime](https://wakatime.com/))*
+### 🎯 2025 Goals
 
-<!-- Replace with your Wakatime username -->
+- [x] Launch and scale 3 public web apps  
+- [x] Implement real-world AI/ML in a product  
+- [ ] Master CI/CD pipelines with Docker + GitHub Actions  
+- [ ] Write weekly dev blogs and document my process  
+
+### 🎧 Now Playing on Spotify *(optional)*
+
+<!-- Replace URL with your own Now Playing endpoint if you use one -->
 <!--
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight" />
+  <img src="https://spotify-now-playing-xxx.vercel.app/api/now-playing" />
 </p>
 -->
+
+### 🧠 Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ### 💬 Let's Connect
 
@@ -74,18 +87,13 @@ I'm passionate about building **tech that empowers people**, makes daily life �
   <a href="https://linkedin.com/in/yourname"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
 </p>
 
-### 👀 Visitors
+### 👀 Visitor Count
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=victor-busami&style=flat-square&color=blue" />
 </p>
 
-### 💡 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 ### ⚡ Fun Fact  
 
-I treat debugging like detective work 🕵️‍♂️ — every bug has a trail, every fix is a victory 🛠️. Also, I talk to my rubber duck 🦆 more than most humans when coding.
+I treat debugging like detective work 🕵️‍♂️ — every bug has a trail, every fix is a victory 🛠️.  
+Also, I talk to my rubber duck 🦆 more than most humans when coding.
