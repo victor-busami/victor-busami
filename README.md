@@ -42,8 +42,13 @@ I thrive on clean architecture, modern tech stacks, and building systems that ar
 ### 🧠 Weekly Coding Stats (Wakatime)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=busamivictor&theme=tokyonight&v=2&range=last_7_days" />
 </p>
+
+
+
+
+
 
 ### 🏆 GitHub Trophies
 
