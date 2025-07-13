@@ -28,8 +28,8 @@ I thrive on clean architecture, modern tech stacks, and building systems that ar
 
 ### 🚀 Featured Projects
 
-- 💰 [**BudgetFlow**](https://github.com/victor-busami/budgetflow) – A minimalist personal finance tracker  
-- 🌱 [**GreenStep**](https://github.com/victor-busami/greenstep) – Track and reduce your carbon footprint  
+- 💰 [**contacts-duplicates**](https://busami-duplicates.onrender.com/) – A minimalist contact duplicates finder powered by machine learning  
+- 🌱 [**agric-Ai**](https://busami-agric.onrender.com/) – Track and know your crop yields as per your farm size and fertiisers input  
 - 🧠 [**MindEase**](https://github.com/victor-busami/mindease) – Mental health support & mood tracking  
 
 ### 📊 GitHub Stats
