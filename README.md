@@ -23,7 +23,7 @@ I thrive on clean architecture, modern tech stacks, and building systems that ar
 ### 🛠️ Tech I Use & Love
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,fastapi,postgres,mongodb,prisma,redis,docker,tailwind,git,github,firebase,jest,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=django,ts,js,react,nextjs,fastapi,postgres,mongodb,prisma,redis,docker,tailwind,git,github,firebase,postman,figma" />
 </p>
 
 ### 🚀 Featured Projects
@@ -33,22 +33,17 @@ I thrive on clean architecture, modern tech stacks, and building systems that ar
 - 🧠 [**MindEase**](https://github.com/victor-busami/mindease) – Mental health support & mood tracking  
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=victor-busami&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&rank_icon=github&v=2" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=victor-busami&show_icons=true&theme=tokyonight&v=2" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-busami&layout=compact&theme=tokyonight&langs_count=10&v=2" />
 </p>
+
 
 ### 🧠 Weekly Coding Stats (Wakatime)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=busamivictor&theme=tokyonight&v=2&range=last_7_days" />
 </p>
-
-
-
-
-
 
 ### 🏆 GitHub Trophies
 
@@ -95,6 +90,7 @@ I thrive on clean architecture, modern tech stacks, and building systems that ar
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=victor-busami&style=flat-square&color=blue" />
 </p>
+
 
 ### 🤯 Fun Fact
 
