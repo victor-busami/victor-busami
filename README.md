@@ -1,21 +1,28 @@
-### 🌍 About Me
 
-I'm **Busami Victor**, a passionate full-stack software engineer building digital solutions that solve meaningful real-world problems — especially in **mental health**, **finance**, **sustainability**, and **education**.
 
-I thrive on clean architecture, modern tech stacks, and building systems that are both powerful and easy to use.
+**🔹Busami Victor** 
 
-### 🛠️ Tech I Use & Love
+**🔹 Roles:** 🧠 Data Science | 💻 Backend Engineer  
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,ts,js,react,nextjs,fastapi,postgres,mongodb,prisma,redis,docker,tailwind,git,github,firebase,postman,figma" />
-</p>
 
 ### 🚀 Featured Projects
 
 - 💰 [**contacts-duplicates**](https://busami-duplicates.onrender.com/) – A minimalist contact duplicates finder powered by machine learning  
-- 🌱 [**agric-Ai**](https://busami-agric.onrender.com/) – Track and know your crop yields as per your farm size and fertiisers input  
+- 🌱 [**agric-Ai**](https://busami-agric.onrender.com/) – Track and know your crop yields as per your farm size and fertilizers input  
 - 🧠 [**MindEase**](https://github.com/victor-busami/mindease) – Mental health support & mood tracking  
+
+<p align="center">
+  <!-- Data Science / ML -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" height="40"/> 
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" height="40"/> 
+  <img src="https://img.shields.io/badge/Scikit-Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="Scikit-Learn" height="40"/> 
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" title="Matplotlib" height="40"/> 
+  <img src="https://img.shields.io/badge/Seaborn-77AC30?style=for-the-badge&logo=seaborn&logoColor=white" title="Seaborn" height="40"/> 
+  
+  <!-- Backend & Full-Stack -->
+  <img src="https://skillicons.dev/icons?i=python,nextjs,postgres,mongodb,redis,docker,git,github,firebase,postman" />
+</p>
 
 ### 🤯 Fun Fact
 
-I treat debugging like detective work 🕵️‍♂️ — every bug has a trail, every fix is a win 🛠️. I also talk to my rubber duck 🦆 more than most humans while coding.
+I treat debugging like detective work 🕵️‍♂️ — every bug has a trail, every fix is a win 🛠️. I also talk to my rubber duck 🦆 more than most humans while coding.  
