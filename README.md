@@ -2,7 +2,7 @@
 
 **🔹Busami Victor** 
 
-**🔹 Roles:**  🧠 Data Science | 💻 Backend Engineer | ☕ Java Developer
+**🔹 Roles:**  🧠 Data Science | 💻 Software Engineer 
 
 
 
