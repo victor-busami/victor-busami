@@ -10,7 +10,8 @@
 
 - 💰 [**contacts-duplicates**](https://busami-duplicates.onrender.com/) – A minimalist contact duplicates finder powered by machine learning  
 - 🌱 [**agric-Ai**](https://busami-agric.onrender.com/) – Track and know your crop yields as per your farm size and fertilizers input  
-- 🧠 [**Usalama_jijini**](https://github.com/victor-busami/usalama_jijini) – Nairobi crime reporting ai system 
+- 🧠 [**Usalama_jijini**](https://github.com/victor-busami/usalama_jijini) – Nairobi crime reporting ai system
+- 🙃 [**busami-iq**](https://busami-iq.vercel.app) – Ai powered posts generator for various social media platforms
 
 <p align="center">
 
