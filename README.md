@@ -2,7 +2,7 @@
 
 **🔹Busami Victor** 
 
-**🔹 Roles:**  🧠 Data Science | 💻 Software Engineer 
+**🔹 Roles:**  🧠 Java Developer | 💻 Software Engineer | 🤞 Data Science
 
 
 
@@ -16,7 +16,7 @@
 <p align="center">
 
    <!-- Backend & Full-Stack -->
-  <img src="https://skillicons.dev/icons?i=javascript,python,postgres,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,postgres,docker,git,github,postman" />
 
   <br>
   
