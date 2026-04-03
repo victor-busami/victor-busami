@@ -2,11 +2,11 @@
 
 **🔹Busami Victor** 
 
-**🔹 Roles:**  💻 Software Engineer | 🧠 Data Science
+**🔹 Roles:**  💻 Software Engineer |  Data Science
 
 
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 -  [**berapos**](https://berapos.vercel.app) – Modern pos system
 -  [**busami-iq**](https://busami-iq.vercel.app) – Ai powered posts generator for various social media platforms
@@ -32,4 +32,4 @@
 
 ### 🤯 Fun Fact
 
-I treat debugging like detective work 🕵️‍♂️ — every bug has a trail, every fix is a win 🛠️. I also talk to my rubber duck 🦆 more than most humans while coding.  
+I treat debugging like detective work  — every bug has a trail, every fix is a win . I also talk to my rubber duck 🦆 more than most humans while coding.  
