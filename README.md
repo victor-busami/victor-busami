@@ -17,7 +17,7 @@
 <p align="center">
 
    <!-- Backend & Full-Stack -->
-  <img src="https://skillicons.dev/icons?i=go,typescript,javascript,python,aws,postgres,docker,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,javascript,azure,postgres,docker,git,github" />
 
   <br>
   
